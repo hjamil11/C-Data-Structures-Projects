@@ -1,0 +1,17 @@
+/**
+\mainpage CSC 237 Data Structures Project 3
+\n
+This program for Project 3 exercises some important aspects in data structures including inheritance and polymorphisim
+\n
+---
+\n
+The WordList class has the following subclasses which are implemented
+- WordDataList.h
+- WordVectorList.h
+- WordCList.h
+\n
+\n
+
+These subclasses uses the WordData and WordList.h classes
+---
+*/
