@@ -1,0 +1,40 @@
+void backwardPrint(ClistItr<int> &lItr)
+{
+    cout << "Prints the list backwards:" << endl;
+
+//     ClistItr<int> lItr(list);
+//     lItr.begin();
+
+//     if(!lItr.isEmpty())
+//     {
+//         if (!lItr.isLastNode())
+//         {
+//             backwardPrint(list);
+//             lItr++;
+//             cout << *lItr << " ";
+//         }
+
+//         cout << *lItr << endl;
+//     }
+//     else
+//     {
+//         cout << "This Circular Linked List is empty." << endl;
+//     }
+    //if (lItr.isEmpty() || lItr.isLastNode())
+    //    return;
+
+    
+    //backwardPrint(lItr++);
+    //if ()
+    //{
+     //   backwardPrint(lItr);
+     //   cout << *lItr << " ";
+    //}
+}
+
+// void reverseList(CLinkedList<int> &list)
+// {
+//     ClistItr<int> lItr(list);
+//     lItr.begin();
+    
+// }
